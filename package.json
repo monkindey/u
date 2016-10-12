@@ -1,0 +1,27 @@
+{
+  "name": "u",
+  "version": "0.1.0",
+  "description": "显示Unicode",
+  "main": "index.js",
+  "bin": {
+    "u": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unicode"
+  ],
+  "author": "monkindey",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "io-spin": "^0.4.1",
+    "meow": "^3.7.0",
+    "pify": "^2.3.0",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "jest": "^16.0.1"
+  }
+}
