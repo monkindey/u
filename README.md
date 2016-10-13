@@ -12,6 +12,7 @@ $ npm install -g u2cmd
 
 ```javascript
 u 'u597d'  // output 好
+u2cmd 'u597d' // output 好
 ```
 
 ### API
