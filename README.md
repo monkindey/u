@@ -5,7 +5,7 @@
 ### Install
 
 ```shell
-$ npm install -g u
+$ npm install -g u2cmd
 ```
 
 ### Usage
